@@ -1,6 +1,6 @@
 # Exercice ORM - Blog information automatique
 
-## Liste des données nécessaires :
+## **1-Liste des données nécessaires :**
 
 *Données pour les dépêches AFP :*
  ````
@@ -47,3 +47,18 @@ Un article peut avoir plusieurs tags.
 Un article utilise une IA générative pour le texte.
 Une illustration utilise une IA générative pour l'image.
 ````
+## **2- Diagramme de classe UML :**
+
+![Capture d’écran (399)](https://github.com/ilierrazi00/Exercice_ORM/assets/94292513/651a5a37-18a2-4188-8178-937a1b106547)
+
+## **3- Diagramme MCD Merise :**
+
+![DiagrammeMcdMerise](https://github.com/ilierrazi00/Exercice_ORM/assets/94292513/b895a58e-5538-4834-a87f-ccfa0f86f1be)
+
+
+## **4- Schéma Relationnel crée par ORM Doctrine & Symfony :**
+
+![Capture d’écran (401)](https://github.com/ilierrazi00/Exercice_ORM/assets/94292513/48af0ad0-1af9-4e16-b92e-9d1626a8f511)
+
+
+
