@@ -1,6 +1,6 @@
 # Exercice ORM - Blog information automatique
 
-## **1-Liste des données nécessaires :**
+## **1- Liste des données nécessaires :**
 
 *Données pour les dépêches AFP :*
  ````
